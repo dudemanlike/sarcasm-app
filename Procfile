@@ -1,0 +1,1 @@
+web: gunicorn sarcasm_app:app
